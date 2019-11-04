@@ -2,6 +2,6 @@ this is a file that used to complete homework 13.
 
 this is a txt file
 
-yutong zhang
+yutong zhang(yz3675)
 
-date Nov.13, 2019
+date: Nov.13, 2019
